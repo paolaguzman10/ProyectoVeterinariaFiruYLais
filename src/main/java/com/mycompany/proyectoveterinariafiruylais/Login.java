@@ -11,7 +11,7 @@ package com.mycompany.proyectoveterinariafiruylais;
 public class Login extends javax.swing.JFrame {
 
     /**
-     * Creates new form Login
+     * Creates new form Login  hola
      */
     public Login() {
         initComponents();
